@@ -1,4 +1,4 @@
-# Multilayer-Perception
+# Multilayer-Perceptron
 Machine learning model using a Multilayer Perceptron (MLP) architecture for handwritten digit classification on the MNIST datase
 
 Model classifies handwritten digits using  MNIST dataset which contains handwritten digits with a training set of 60,000 examples, and a test set of 10,000 examples.
